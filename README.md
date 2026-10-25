@@ -61,3 +61,4 @@
 - [slo-generator](https://github.com/google/slo-generator)
 - [pyrra](https://github.com/pyrra-dev/pyrra)
 - [Service Level Calculator](https://slc.alexewerlof.com/)
+- [nines](https://ishantanu.github.io/nines/)
